@@ -1,5 +1,3 @@
-# Social-Media-Sentiment-Analysis-
-
 # Social Media Sentiment Analysis Dashboard
 
 ## Project Overview
